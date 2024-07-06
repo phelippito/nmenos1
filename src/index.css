@@ -1,0 +1,4 @@
+/*Definindo o CSS para as diretivas*/
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
